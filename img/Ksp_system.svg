@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1103.5" height="1007.5" version="1.1" viewBox="0 0 1103.5 1007.5" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <filter id="filter1645" x="-.53057" y="-.53057" width="2.0611" height="2.0611" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="4.4213864"/>
+  </filter>
+ </defs>
+ <g transform="translate(-105.82 9.8293)">
+  <rect x="105.82" y="-9.8293" width="1103.5" height="1007.5"/>
+  <circle cx="791.16" cy="479.26" r="0" fill="#a23e28" fill-rule="evenodd"/>
+  <ellipse cx="647.59" cy="493.92" rx="457.14" ry="441.09" fill="none" stroke="#686a6a" stroke-width="4"/>
+  <circle cx="192.77" cy="551.29" r="10.5" fill="#686a6a" fill-rule="evenodd" stroke-width=".98882"/>
+  <ellipse cx="786.96" cy="491.46" rx="343.41" ry="340.34" fill="none" stroke="#548412" stroke-width="5"/>
+  <circle cx="644.23" cy="183.59" r="12" fill="#548412" fill-rule="evenodd" stroke-width="1.1301"/>
+  <ellipse cx="775.9" cy="503.52" rx="200" ry="201.61" fill="none" stroke="#5a4432" stroke-width="5"/>
+  <circle cx="698.53" cy="691.11" r="10.619" fill="#5a4432" fill-rule="evenodd"/>
+  <circle cx="791.41" cy="480.33" r="102" fill="none" stroke="#a23e28" stroke-width="5"/>
+  <circle cx="891.59" cy="456.52" r="10.619" fill="#a23e28" fill-rule="evenodd"/>
+  <circle cx="785.73" cy="480.56" r="68.58" fill="none" stroke="#8acac2" stroke-width="5"/>
+  <circle cx="753.2" cy="540.45" r="10.619" fill="#8acac2" fill-rule="evenodd"/>
+  <circle cx="785.11" cy="481.03" r="49.065" fill="none" stroke="#6c20e4" stroke-width="5"/>
+  <circle cx="776.1" cy="529.34" r="10.619" fill="#6c20e4" fill-rule="evenodd"/>
+  <circle cx="789.65" cy="484" r="25.986" fill="none" stroke="#a88161" stroke-width="5"/>
+  <circle cx="814.19" cy="496.04" r="10.619" fill="#a88161" fill-rule="evenodd"/>
+  <g fill="#ff0" fill-rule="evenodd">
+   <circle transform="matrix(1.3006 0 0 1.3006 -236.16 -144.52)" cx="785.84" cy="480.7" r="10" filter="url(#filter1645)"/>
+   <circle cx="785.88" cy="480.66" r="9.543"/>
+  </g>
+ </g>
+</svg>
